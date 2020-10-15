@@ -24,7 +24,7 @@ Attn. |R2 | R1, R3
 
 [Licensed under CERN-OHL-S V2. Julian White, 2020](https://www.ohwr.org/project/cernohl/wikis/home)
 
-![Complete](https://github.com/kf4mot/HMC1121_4W_6CM/images/HMC1121_assy_top3_1200.jpg "Complete")
+![Complete](https://github.com/kf4mot/HMC1121_4W_6CM/blob/master/images/HMC1121_assy_top3_1200.jpg "Complete")
 
 ![BoardTop](https://github.com/kf4mot/10mhz_distributor/blob/master/images/board-assy-top.jpg "Board Top")
 
