@@ -26,8 +26,8 @@ Attn. |R2 | R1, R3
 
 ![Complete](https://github.com/kf4mot/HMC1121_4W_6CM/blob/master/images/HMC1121_assy_top3_1200.jpg "Complete")
 
-![BoardTop](https://github.com/kf4mot/10mhz_distributor/blob/master/images/board-assy-top.jpg "Board Top")
+![BoardTop](https://github.com/kf4mot/HMC1121_4W_6CM/blob/master/images/IMG_20200329_131158949_brd-top.jpg "Board Top")
 
-![BoardTop 3D](https://github.com/kf4mot/10mhz_distributor/blob/master/images/10mhz_distributor-3d-view.jpg "Board Top 3D")
+![BoardTop 3D](https://github.com/kf4mot/HMC1121_4W_6CM/blob/master/images/IMG_20200329_131318489_sprdr-btm.jpg "Heat spreader assembly")
 
 ![](https://github.com/kf4mot/10mhz_distributor/blob/master/images/scope-in-out-10mhz.jpg "Input vs. Output")
