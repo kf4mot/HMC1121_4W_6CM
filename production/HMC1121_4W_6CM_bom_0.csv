@@ -1,0 +1,29 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet,Part Number,MFG,dsp_value
+1,Unpolarized capacitor,0.1uF_25V_0402_x7r,C3 C8 C9 C10 C11 C20 C21 C22 C23 C28,0.1uF_25V_0402_x7r,C_0402_1005Metric,10,~,CGA2B3X7R1E104K050BB,TDK,0.1uF 25V
+2,Unpolarized capacitor,C_22pF_0402_50V_C0G,C12 C13 C14 C15 C16 C17 C18 C19,C_22pF_0402_50V_C0G,C_0402_1005Metric,8,https://www.mouser.com/datasheet/2/281/murata_03052018_GRM_Series_1-1310166.pdf,GRM1555C1H220JA01D,Murata,22 pF
+3,4.7uF 1206 Cap,C_4.7uf_50V_x7r_1206,C1 C2 C4 C5 C6 C7 C24 C25 C26 C27,C_4.7uf_50V_x7r_1206,C_1206_3216Metric,10,https://www.mouser.com/datasheet/2/396/mlcc02_e-1307760.pdf,GRM31CR71H475KA12L,Murata,4.7uF 50V
+4,"Generic connector, single row, 01x01",Conn_4mm_pad,J1 J3 J4 J5 J6 J7 J8 J9 J10 J11 J12 J13,Conn_4mm_pad,SolderWirePad_single_SMD_4mm,12,~,,,
+5,,SMA_F_Amp_901-10309,J2 J14,SMA_F_Amp_901-10309,SMA_END_LAUNCH_062_AMP901-10309,2,https://www.amphenolrf.com/downloads/dl/file/id/507/product/3090/901_10309_customer_drawing.pdf,901-10309,Amp,SMA
+6,Resistor,R_100k_sm0603,R5 R6,R_100k_sm0603,R_0603,2,https://www.mouser.com/datasheet/2/447/PYu-RT_1-to-0.01_RoHS_L_9-1222720.pdf,RT0603FRE07100KL,Yageo,100K
+7,Resistor,R_10K_sm0603,R7 R8 R9 R10,R_10K_sm0603,R_0603_1608Metric,4,https://www.mouser.com/datasheet/2/427/dcrcwe3-45987.pdf,RT0603FRE0710KL,Yaego,10K
+8,Resistor,R_24_sm0603,R1 R2 R3 R4,R_24_sm0603,R_0603_1608Metric,4,https://www.mouser.com/datasheet/2/447/PYu-RT_1-to-0.01_RoHS_L_9-1222720.pdf,RT0603FRE0724RL,Yageo,24R
+9,,Taper_45mil_to_12mil,T1 T2,Taper_45mil_to_12mil,Taper_45to12_uwT1.14_1.14_0.30_0.30_2.00,2,,,,
+10,"Temperature dependent resistor, negative temperature coefficient",Thermistor_NTC_ERT-J1VV473J,TH1 TH2,Thermistor_NTC_ERT-J1VV473J,R_0603_1608Metric,2,~,ERT-J1VV473J,Panasonic,47K NTC
+11,,HMC1121,U2,HMC1121,LFCSP-40-1EP,1,www.analog.com/media/en/technical-documentation/data-sheets/HMC1121.pdf,HMC1121LP6GE,Analog Devices,
+12,,MCP1703T-5002,U1,MCP1703T-5002,SOT-23,1,http://ww1.microchip.com/downloads/en/devicedoc/22049f.pdf,MCP1703T-5002E/CB,Microchip,
+13,OPAmp symbol,MIC7300,U3,MIC7300,SOT-23-5,1,http://ww1.microchip.com/downloads/en/DeviceDoc/mic7300.pdf,MIC7300YM5-TR,Microchip,
+
+
+
+
+
+Component Groups:,13
+Component Count:,59
+Fitted Components:,59
+Number of PCBs:,1
+Total components:,59
+Schematic Version:,0
+Schematic Date:,2019-12-25
+BoM Date:,1/7/2020 9:40:04 PM
+Schematic Source:,C:\Users\Julian\Documents\kicad_project\HMC1121_4W_6CM\HMC1121_4W_6CM.sch
+KiCad Version:,Eeschema (5.1.5)-3
