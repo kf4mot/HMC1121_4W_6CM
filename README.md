@@ -8,7 +8,7 @@ The HMC1121 is a GaAs MMIC 4W power amplifier with an integrated temperature com
 1. -
  
 
-**#[Attenuator Calc](https://www.pasternack.com/t-calculator-pi-attn.aspx)
+** #[Attenuator Calc](https://www.pasternack.com/t-calculator-pi-attn.aspx)
 
 [Schematic](https://github.com/kf4mot/HMC1121_4W_6CM/blob/master/hardware/HMC1121_4W_6CM.pdf)
 
