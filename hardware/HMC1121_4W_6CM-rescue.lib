@@ -1,0 +1,43 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# MIC7300-Mine
+#
+DEF MIC7300-Mine U 0 10 Y Y 1 F N
+F0 "U" 150 125 50 H V L CNN
+F1 "MIC7300-Mine" 150 -125 50 H V L CNN
+F2 "Package_TO_SOT_SMD:SOT-23-5" 50 25 50 H I C CNN
+F3 "" 150 125 50 H I C CNN
+F4 "Microchip" 250 225 60 H I C CNN "MFG"
+F5 "MIC7300YM5-TR" 350 325 60 H I C CNN "Part Number"
+DRAW
+P 4 0 1 10 200 0 -200 200 -200 -200 200 0 f
+X ~ 1 300 0 100 L 50 50 1 1 O
+X V- 2 -100 -300 150 U 50 50 1 1 W
+X + 3 -300 -100 100 R 50 50 1 1 I
+X - 4 -300 100 100 R 50 50 1 1 I
+X V+ 5 -100 300 150 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# R_10k_sm0603-Mine
+#
+DEF R_10k_sm0603-Mine R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "R_10k_sm0603-Mine" 0 0 50 V I C CNN
+F2 "Resistors_SMD:R_0603" -70 0 50 V I C CNN
+F3 "http://www.yageo.com/documents/recent/PYu-RT_1-to-0.01_RoHS_L_9.pdf" 80 0 50 V I C CNN
+F4 "Yageo" 180 100 50 V I C CNN "MFG"
+F5 "RT0603FRE0710KL" 280 200 50 V I C CNN "Part Number"
+F6 "10K" 380 300 50 V V C CNN "dsp_value"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name HMC1121_4W_6CM-rescue)(type Legacy)(uri ${KIPRJMOD}/HMC1121_4W_6CM-rescue.lib)(options "")(descr ""))
+)
