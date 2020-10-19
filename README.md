@@ -5,6 +5,10 @@ The HMC1121 is a GaAs MMIC 4W power amplifier with an integrated temperature com
 
 [Companion bias board.](https://github.com/kf4mot/Cree_GaN_Driver)
 
+**Things to be done**
+- [ ] Add all documentation
+- [ ] Revise board for 50Ω traces on better substrate (ro4350).
+
 **Things worth knowing**
 
 1. -To be added.
