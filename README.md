@@ -3,7 +3,7 @@ The HMC1121 is a GaAs MMIC 4W power amplifier with an integrated temperature com
 
 [Schematic](https://github.com/kf4mot/HMC1121_4W_6CM/blob/master/hardware/HMC1121_4W_6CM.pdf)
 
-[Created with KiCAD ver. 5.1.5-3](https://kicad-pcb.org)
+[Created with KiCAD ver. 5.1.5-3](https://kicad.org)
 
 [Companion bias board.](https://github.com/kf4mot/Cree_GaN_Driver)
 
